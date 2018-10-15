@@ -20,8 +20,8 @@ plugins {
 val kotlinVersion = property("kotlin.version").toString()
 
 allprojects {
-    version = "3.0.8"
-    group = "com.beust"
+    version = "3.0.9"
+    group = "com.feezback"
 
     repositories {
         mavenCentral()

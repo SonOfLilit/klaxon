@@ -12,7 +12,7 @@ object Version {
 
 val p = project {
     name = "klaxon"
-    group = "com.beust"
+    group = "com.feezback"
     artifactId = name
     version = Version.klaxon
     directory = "klaxon"
